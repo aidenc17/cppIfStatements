@@ -1,0 +1,3 @@
+/Users/aidencox/git/cppIfStatements/cmake-build-debug/CMakeFiles/cppIfStatements.dir
+/Users/aidencox/git/cppIfStatements/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aidencox/git/cppIfStatements/cmake-build-debug/CMakeFiles/rebuild_cache.dir
